@@ -1,5 +1,13 @@
-from tkinter import NW, Tk, Canvas, PhotoImage
-import cv2 
+# Source - https://stackoverflow.com/a/67161773
+# Posted by Experience_In_AI
+# Retrieved 2026-01-06, License - CC BY-SA 4.0
+
+import tkinter
+from tkinter import *
+from tkinter import ttk
+import numpy as np
+from PIL import Image, ImageTk
+import cv2
 
 def photo_image(img):
     h, w = img.shape[:2]
