@@ -42,6 +42,6 @@ auto-vehicle-registration-lookup/
 Her kan der benyttes to metoder:
 1. Programmatisk klassisk detection 
 Her vil der nok benyttes grayscale og edge-detection teknikekr til at finde retanglen for plate detection.
-2. ML Model
+2. ML Model (Denne benyttes i programmet)
 Her vil der optrænes en ML model til at returnere rektanglen for nummerpladen, givet et img som input. Det er typisk en YOLO baseret objekt detektions model der benyttes her. Allerede optrænet modeller kan evt. benyttes her. 
   

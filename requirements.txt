@@ -1,0 +1,8 @@
+opencv-python
+ultralytics
+easyocr
+Pillow
+numpy
+requests
+python-dotenv
+dotenv
