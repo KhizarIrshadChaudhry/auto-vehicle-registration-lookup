@@ -1,5 +1,5 @@
 # Automatic Vehicle Registration Lookup
-
+![ALPR Application](img-alpr.png)
 ## About the project
 
 A Python-based desktop application inspired by **Automatic License Plate
